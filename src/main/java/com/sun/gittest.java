@@ -13,6 +13,7 @@ public class gittest {
         System.out.println("测试4");
         System.out.println("测试4");
         System.out.println("测试4");
-        System.out.println("测试4");
+        System.out.println("master -commit4");
+        System.out.println("master -commit4");
     }
 }
